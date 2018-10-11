@@ -1,0 +1,8 @@
+bla bla bla bla 
+-rw-r--r-- 1 student student 0 paź 11 10:00 test1.txt
+student@wspol:~/Desktop/cwiczenia$ nano test.txt
+student@wspol:~/Desktop/cwiczenia$ 
+student@wspol:~/Desktop/cwiczenia$ nano test.txt
+student@wspol:~/Desktop/cwiczenia$ 
+student@wspol:~/Desktop/cwiczenia$ 
+
